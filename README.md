@@ -3,6 +3,11 @@ covid19-chest-xray-detector
 
 Machine Learning model to detect COVID19 out of chest x-ray images
 
+- You can directly download the dataset already split by COVID19 and Non-COVID19 labels <a target="_blank" href="https://drive.google.com/uc?export=download&id=1PpqhwXJBGm1UAek6WSpjgO2zm-Va_czu">here</a>
+
+
+- <a target="_blank" href="https://github.com/ieee8023/covid-chestxray-dataset">Public dataset and further info</a>
+
 Project Organization
 ------------
 
